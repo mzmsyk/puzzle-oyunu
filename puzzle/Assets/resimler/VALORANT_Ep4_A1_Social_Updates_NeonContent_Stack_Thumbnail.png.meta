@@ -1,0 +1,516 @@
+fileFormatVersion: 2
+guid: b670d1693efcb844c840d1e38aca3237
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4256548798578099684
+    second: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_0
+  - first:
+      213: 5635442023453066985
+    second: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_1
+  - first:
+      213: -9042378006058742705
+    second: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_2
+  - first:
+      213: -6560681651630122222
+    second: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_3
+  - first:
+      213: 1576439406995446381
+    second: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_4
+  - first:
+      213: 3783058531363560799
+    second: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_5
+  - first:
+      213: 5256044407598326808
+    second: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_6
+  - first:
+      213: 6386183313302097668
+    second: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_7
+  - first:
+      213: 6186218921288973574
+    second: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_8
+  - first:
+      213: 7466785065280860814
+    second: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_9
+  - first:
+      213: 431362372462138323
+    second: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_10
+  - first:
+      213: 1712108815592842704
+    second: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_11
+  - first:
+      213: -6969290709626065181
+    second: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_12
+  - first:
+      213: 2431628901379758261
+    second: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_13
+  - first:
+      213: -2728749327077680295
+    second: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_14
+  - first:
+      213: 7392787017259719270
+    second: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468.75
+        width: 300
+        height: 156.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1af2ab7b63bde4c0800000000000000
+      internalID: -4256548798578099684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 468.75
+        width: 300
+        height: 156.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e68a3899ac153e40800000000000000
+      internalID: 5635442023453066985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 468.75
+        width: 300
+        height: 156.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c4010bc15038280800000000000000
+      internalID: -9042378006058742705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 468.75
+        width: 300
+        height: 156.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bd92e3cc6c3f4a0800000000000000
+      internalID: -6560681651630122222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312.75
+        width: 300
+        height: 156.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a14efc943a0e510800000000000000
+      internalID: 1576439406995446381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 312.75
+        width: 300
+        height: 156.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d9f66d0bf108430800000000000000
+      internalID: 3783058531363560799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 312.75
+        width: 300
+        height: 156.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814a39e7a8831f840800000000000000
+      internalID: 5256044407598326808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_7
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 312.75
+        width: 300
+        height: 156.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f06e353e740a850800000000000000
+      internalID: 6386183313302097668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156.75
+        width: 300
+        height: 156.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60dba3a355dd9d550800000000000000
+      internalID: 6186218921288973574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_9
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 156.75
+        width: 300
+        height: 156.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82f146c4795f9760800000000000000
+      internalID: 7466785065280860814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_10
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 156.75
+        width: 300
+        height: 156.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d35314dac18cf500800000000000000
+      internalID: 431362372462138323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_11
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 156.75
+        width: 300
+        height: 156.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5e93a85e1a2c710800000000000000
+      internalID: 1712108815592842704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 300
+        height: 156.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eeee44460b184f90800000000000000
+      internalID: -6969290709626065181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0.75
+        width: 300
+        height: 156.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8505c3a91eeb120800000000000000
+      internalID: 2431628901379758261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0.75
+        width: 300
+        height: 156.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bd27ec1f8812ad0800000000000000
+      internalID: -2728749327077680295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: VALORANT_Ep4_A1_Social_Updates_NeonContent_Stack_Thumbnail_15
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0.75
+        width: 300
+        height: 156.25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a92ef9f94789660800000000000000
+      internalID: 7392787017259719270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
